@@ -1,1 +1,10 @@
+# basic options
+title: ScNeverRain's Blog
+author: ScNeverRain
+email: zhiyuan.liu.calvin@gmail.com
+description: Are you thinking what I'm thinking?
+github_username:  ScNeverRain
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-modernist
